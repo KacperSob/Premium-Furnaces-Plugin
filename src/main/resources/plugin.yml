@@ -1,0 +1,12 @@
+name: Premiumcase
+version: '${project.version}'
+main: me.glitch.wracajdopieca.premiumcase.Premiumcase
+api-version: 1.18
+authors: [ Skacper12 ]
+description: Premiumcase
+website: me.glitch.wracajdopieca
+depend: [WorldGuard, WorldGuardEvents]
+commands:
+  premiumpiec:
+    description: Daje premium pieca
+    aliases: prmpiec daj
